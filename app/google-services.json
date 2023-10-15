@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971765907468",
+    "project_id": "qr-wallet-5f4a3",
+    "storage_bucket": "qr-wallet-5f4a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971765907468:android:cf877f95f2a28a020c2e29",
+        "android_client_info": {
+          "package_name": "com.example.qrwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971765907468-pe52qdq9tp4qtpf90hgsl62urir4tdqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqlnD1Jn_-lZh78zI280c-1xfTDqJeLdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971765907468-pe52qdq9tp4qtpf90hgsl62urir4tdqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
